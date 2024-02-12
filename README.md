@@ -17,7 +17,6 @@ One can download [the app for fast ML yield prediction](https://github.com/kbarn
 Input fields are prefilled with some exemplary values that should be changed by the user in accordance with their needs. After clicking "Submit" a short input summary and predicted yield are shown. Executable can be run on Windows devices.
 
 ![app1](img/imgapp1.png)
-![app2](img/imgapp2.png)
 
 ## HOW-TO - Reproduce Work with Codes
 - note_1 - this notebook contains all the necessary codes to calculate molecular representation (molecular descriptors and molecular fingerprints) for modeling. After running the codes, one would obtain a .csv file with all MDs and MFs available. Input data could be obtained from Table S2 ESI or the original raw file from authors by request.
