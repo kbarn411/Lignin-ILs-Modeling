@@ -4,7 +4,7 @@ This repo contains codes to reproduce our work on modeling lignin extraction wit
 
 Corresponding author: Karol Baran (GdańskTech), karol.baran[at]pg.edu.pl
 
-Manuscript status: submitted (2024)
+K. Baran, B. Barczak and A. Kloskowski, Modeling lignin extraction with ionic liquids using machine learning approach, Science of the Total Environment (2024), https://doi.org/10.1016/j.scitotenv.2024.173234
 
 The online version of the app using the proposed model is [available at this address](https://labilspg.pythonanywhere.com/)
 
